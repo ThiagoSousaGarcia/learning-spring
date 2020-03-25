@@ -1,2 +1,2 @@
 # learning-spring
-Examples of java code using spring
+Example of rest service using spring
